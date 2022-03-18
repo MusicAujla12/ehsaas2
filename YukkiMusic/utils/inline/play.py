@@ -36,10 +36,10 @@ def stream_markup(_, videoid):
     buttons = [
        [
                 InlineKeyboardButton(
-                    text="✰..🅾🆆🅽🅴🆁..✰", url=f"https://t.me/PB_65_Aujla"
+                    text="✰🅾🆆🅽🅴🆁✰", url=f"https://t.me/PB_65_Aujla"
                 ),
                 InlineKeyboardButton(
-                    text="✰..𝔾ℝ𝕆𝕌ℙ..✰", url=f"https://t.me/Punjabi_ChatGroup"
+                    text="✰𝔾ℝ𝕆𝕌ℙ✰", url=f"https://t.me/Punjabi_ChatGroup"
                 ),
             ],
     ]
