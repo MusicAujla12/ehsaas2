@@ -19,7 +19,7 @@ def start_pannel(_):
     buttons = [
         
 
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
+                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
@@ -63,7 +63,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
 
                 ],
 
-                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
+                [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Aujla-Music-Commands-03-18")],
 
                 
 
